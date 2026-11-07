@@ -1,19 +1,80 @@
-<h1 align="center">Hi 👋, I'm Chia Koh Suan (Nicole)</h1>
-<h3 align="center">A Diploma in Computer Science student at Tunku Abdul Rahman University of Management and Technology (TAR UMT), seeking an internship opportunity to gain practical experience in the IT industry. Eager to apply academic knowledge, develop technical skills, and learn from experienced professionals in a real working environment.</h3>
+# Hi 👋, I'm Chia Koh Suan (NicoleChia.)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolechia0789&label=Profile%20views&color=0e75b6&style=flat" alt="nicolechia0789" /> </p>
+### Diploma in Computer Science Y2S2 Student | IT Internship Applicant
 
-- 📫 How to reach me **nicolechia0809@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="https://komarev.com/ghpvc/?username=NicoleChia0789&label=Profile%20views&color=0e75b6&style=flat" alt="NicoleChia0789" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=NicoleChia0789" alt="GitHub Trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolechia0789&show_icons=true&locale=en&layout=compact" alt="nicolechia0789" /></p>
+## 👋 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolechia0789&show_icons=true&locale=en" alt="nicolechia0789" /></p>
+Hi! I'm Chia Koh Suan (Nicole), a Year 2 Semester 2 Diploma in Computer Science student at Tunku Abdul Rahman University of Management and Technology (TAR UMT).
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolechia0789&" alt="nicolechia0789" /></p>
+Throughout my studies, I've gained experience with programming languages such as **C++, Java, Python, and basic Kotlin**, and have participated in various academic programming projects.
+
+Currently, I'm learning SQL and exploring web development technologies such as HTML, CSS, JavaScript, and PHP. I'm also working on several academic team projects, including **StayEase**, a web-based homestay management system with AI-powered photo description generation, and a **Parallel Computing (PDC)** project. Besides that, I'm studying Cybersecurity Assessment as part of my coursework.
+
+I'm particularly interested in **QA Testing, Software Testing, and System Analysis**. I enjoy investigating problems, identifying bugs, and understanding how systems work. I'm also interested in exploring different areas of IT and continuously improving my programming and problem-solving skills through hands-on projects and practical experience.
+
+I'm always open to learning new technologies, taking on challenges, and gaining real-world experience in the IT industry.
+
+## 🔭 Currently Working On
+
+- **StayEase** – A web-based homestay management system with AI-powered photo description generation.
+- **Parallel Computing (PDC)** – Academic team project.
+
+## 🌱 Currently Learning
+
+- SQL and Database Management
+- HTML, CSS, JavaScript, and PHP
+- API Integration
+- Parallel Computing
+- Cybersecurity
+
+## 💼 Internship Opportunity
+
+I'm currently seeking an IT internship opportunity.
+
+- **Internship Period:** 4 January 2027 – 23 May 2027
+- **Duration:** 20 Weeks
+
+If you have any suitable internship opportunities or would like to connect, feel free to contact me!
+
+## 📫 How to Reach Me
+
+- **Email:** [nicolechia0809@gmail.com](mailto:nicolechia0809@gmail.com)
+- **Resume & Portfolio:** [View My Google Drive](https://drive.google.com/file/d/1yGbKKL0JJQsTfV6Yel3LOV_GpRCKwaSL/view?usp=sharing)
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/NicoleChia0789" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+  </a>
+</p>
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,html,css,js,php,mysql,git,github,vscode,visualstudio,androidstudio,figma" alt="Languages and Tools" />
+</p>
+
+## 📊 GitHub Statistics
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicoleChia0789&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicoleChia0789&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NicoleChia0789" alt="GitHub Streak" />
+</p>
