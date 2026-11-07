@@ -6,11 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=NicoleChia0789&label=Profile%20views&color=0e75b6&style=flat" alt="NicoleChia0789" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=NicoleChia0789" alt="GitHub Trophies" />
-  </a>
-</p>
 
 ## 👋 About Me
 
